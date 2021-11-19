@@ -9,7 +9,7 @@ DB_HOST = f'{database["host"]}'
 DB_USER = f'{database["user"]}'
 DB_USER_PASSWORD = f'{database["password"]}'
 
-DB_NAME = 'Globalbot'
+DB_NAME = 'DATABASE_NAME'
 BACKUP_PATH = '/home/backups'
 
 # Getting current DateTime to create the separate backup folder like "20180817-123433".
